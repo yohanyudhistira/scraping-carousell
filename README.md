@@ -1,1 +1,1 @@
-# scrapping-carousell
+# scraping-carousell
